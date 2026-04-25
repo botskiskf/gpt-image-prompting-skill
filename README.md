@@ -7,6 +7,7 @@ Includes:
 - English and Russian pattern libraries
 - ready templates for clean tech, editorial comic, product mockups, portraits, split-panel comparisons, infographics, and annotated explainers
 - source notes distilled from a public prompt collection
+- OpenClaw execution guardrails, reference-image edit workflow, and quick test checklist
 
 ## Install
 
@@ -22,7 +23,8 @@ gpt-image-prompting/
     ├── patterns-ru.md
     ├── templates.md
     ├── templates-ru.md
-    └── source-notes.md
+    ├── source-notes.md
+    └── quick-test-checklist.md
 ```
 
 ## Source inspiration
